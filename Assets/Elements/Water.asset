@@ -22,3 +22,5 @@ MonoBehaviour:
     result: {fileID: 11400000, guid: 50ec44bc6df09774798d53c000ceabf9, type: 2}
   - connectionWith: {fileID: 11400000, guid: dacf0aab33c684449be99b96de90c385, type: 2}
     result: {fileID: 11400000, guid: 2fb03f4be7ce2a241aa77fda02847363, type: 2}
+  - connectionWith: {fileID: 11400000, guid: a76d79bd5ddd3ed499e40223f634aec3, type: 2}
+    result: {fileID: 11400000, guid: 18fed28f2f4408442ab57dd60e28b451, type: 2}

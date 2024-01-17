@@ -64,6 +64,15 @@ public class ElementContainer : MonoBehaviour
                 return true;
             } 
         }
+        foreach (var item in connection.element.connections)
+        {
+            if (item.connectionWith == element)
+            {
+                result = item.result;
+                return true;
+            }
+        }
+
         result = null;
         return false;
     }
