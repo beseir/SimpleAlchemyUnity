@@ -18,3 +18,9 @@ MonoBehaviour:
   connections:
   - connectionWith: {fileID: 11400000, guid: dacf0aab33c684449be99b96de90c385, type: 2}
     result: {fileID: 11400000, guid: f69c6a3f2be537e45b7383ad23d1a3dc, type: 2}
+  - connectionWith: {fileID: 11400000, guid: 1744dea01a3953f41a69c5dab8fc6663, type: 2}
+    result: {fileID: 11400000, guid: 8752d840051037f43a1ccdedc77c9f23, type: 2}
+  - connectionWith: {fileID: 11400000, guid: 2fb03f4be7ce2a241aa77fda02847363, type: 2}
+    result: {fileID: 11400000, guid: 79409b13714246241aec13ddf4fcb540, type: 2}
+  - connectionWith: {fileID: 11400000, guid: ab53ec4bb8ca1204fbb261ea4e3e2877, type: 2}
+    result: {fileID: 11400000, guid: f4eb32864f5accb499651184f5bff215, type: 2}

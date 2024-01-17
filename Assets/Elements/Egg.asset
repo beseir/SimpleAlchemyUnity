@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bc460d9640d234418c5a6b74b5cd4b5, type: 3}
   m_Name: Egg
   m_EditorClassIdentifier: 
-  Name: 
+  Name: "\u042F \u0439\u0446\u043E"
   ID: 0
-  Icon: {fileID: 0}
+  Icon: {fileID: 21300000, guid: c7d16c6b39ca98046b0c87fbe994c556, type: 3}
   connections: []

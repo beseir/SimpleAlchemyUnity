@@ -26,3 +26,7 @@ MonoBehaviour:
     result: {fileID: 11400000, guid: 2e2a2bbe9baf8cb4ab0c5da46919f627, type: 2}
   - connectionWith: {fileID: 11400000, guid: 5eb8890750dde2641b27061a8f0a59aa, type: 2}
     result: {fileID: 11400000, guid: 110fddf6e74ed2f4c80fe32130a18578, type: 2}
+  - connectionWith: {fileID: 11400000, guid: 79409b13714246241aec13ddf4fcb540, type: 2}
+    result: {fileID: 11400000, guid: dba2a7faf70cb8b4a8d307de0bb22841, type: 2}
+  - connectionWith: {fileID: 11400000, guid: 8752d840051037f43a1ccdedc77c9f23, type: 2}
+    result: {fileID: 11400000, guid: 62d70969ec8d178429b918f678e2b011, type: 2}

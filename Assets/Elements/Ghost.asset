@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bc460d9640d234418c5a6b74b5cd4b5, type: 3}
   m_Name: Ghost
   m_EditorClassIdentifier: 
-  Name: 
+  Name: "\u041F\u0440\u0438\u0437\u0440\u0430\u043A"
   ID: 0
-  Icon: {fileID: 0}
+  Icon: {fileID: 21300000, guid: 61b7cf3d33df5234297f544fc9840127, type: 3}
   connections: []

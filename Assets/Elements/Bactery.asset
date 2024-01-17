@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bc460d9640d234418c5a6b74b5cd4b5, type: 3}
   m_Name: Bactery
   m_EditorClassIdentifier: 
-  Name: 
+  Name: "\u0411\u0430\u043A\u0442\u0435\u0440\u0438\u044F"
   ID: 0
-  Icon: {fileID: 0}
+  Icon: {fileID: 21300000, guid: e927ccc0a6fb5444598b27de81fd4e3a, type: 3}
   connections: []

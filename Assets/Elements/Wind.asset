@@ -15,4 +15,6 @@ MonoBehaviour:
   Name: "\u0412\u0435\u0442\u0435\u0440"
   ID: 4
   Icon: {fileID: 21300000, guid: 1313fd23c291faa4bb4fb71b1e483ce7, type: 3}
-  connections: []
+  connections:
+  - connectionWith: {fileID: 11400000, guid: 1744dea01a3953f41a69c5dab8fc6663, type: 2}
+    result: {fileID: 11400000, guid: c48313a9b36b95549a10b326f9d49baa, type: 2}
