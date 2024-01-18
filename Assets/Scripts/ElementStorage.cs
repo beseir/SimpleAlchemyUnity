@@ -10,12 +10,12 @@ public class ElementStorage : MonoBehaviour
 
     public event Action<Element> OnDiscover;
 
-    private void Start()
+    public void Init()
     {
         OnConnection += CheckElement;
     }
 
-    private void CheckElement(Element element)
+    public void CheckElement(Element element)
     {
         foreach (var item in discoveredElements)
         {

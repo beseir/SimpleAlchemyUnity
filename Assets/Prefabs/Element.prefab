@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 8245852762578584918}
   - component: {fileID: 8245852762578584907}
   - component: {fileID: 8245852762578584906}
+  - component: {fileID: 2597743142265824228}
   m_Layer: 5
   m_Name: Element
   m_TagString: Untagged
@@ -31,7 +32,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 8245852763779352295}
   m_Father: {fileID: 0}
@@ -118,6 +119,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   element: {fileID: 11400000, guid: 48bce429f3a53dd46ba3d74d0518db0d, type: 2}
   nameText: {fileID: 8245852763779352294}
+--- !u!111 &2597743142265824228
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8245852762578584912}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: 23ccceceef97a5248ab86f9a66ed9ea4, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: 23ccceceef97a5248ab86f9a66ed9ea4, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &8245852763779352288
 GameObject:
   m_ObjectHideFlags: 0

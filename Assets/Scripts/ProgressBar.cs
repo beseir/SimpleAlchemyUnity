@@ -8,16 +8,13 @@ public class ProgressBar : MonoBehaviour
 
     private Image image;
 
-    private void Awake()
+    public void Init()
     {
         image = GetComponent<Image>();
         storage = FindObjectOfType<ElementStorage>();
-    }
-    private void Start()
-    {
         storage.OnDiscover += IncrementProgress;
-
     }
+   
 
     private void IncrementProgress(Element element)
     {

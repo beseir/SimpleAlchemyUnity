@@ -17,9 +17,12 @@ public class SpawnElementButton : MonoBehaviour
         newElement.transform.SetParent(playground.transform);
         newElement.transform.localPosition = transform.localPosition;
         newElement.transform.localScale = Vector3.one;
+
         ElementContainer container = newElement.GetComponent<ElementContainer>();
         container.element = element;
         container.InitElement();
+
+        listUI = GameObject.FindGameObjectWithTag("ListUI");
         listUI.SetActive(false);
     }
 }
