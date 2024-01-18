@@ -22,7 +22,6 @@ public class SpawnElementButton : MonoBehaviour
         container.element = element;
         container.InitElement();
 
-        listUI = GameObject.FindGameObjectWithTag("ListUI");
-        listUI.SetActive(false);
+     
     }
 }

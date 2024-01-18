@@ -5,7 +5,6 @@ using UnityEngine;
 public class Element : ScriptableObject
 {
     public string Name;
-    public int ID;
     public Sprite Icon;
     public List<ElementConnection> connections = new();
 

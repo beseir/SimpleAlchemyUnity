@@ -10,10 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1bc460d9640d234418c5a6b74b5cd4b5, type: 3}
-  m_Name: Seed
+  m_Name: Krupa
   m_EditorClassIdentifier: 
-  Name: "\u0421\u0435\u043C\u044F"
-  Icon: {fileID: 21300000, guid: e4ada6f29e04a8547b4ea95bf405829d, type: 3}
-  connections:
-  - connectionWith: {fileID: 11400000}
-    result: {fileID: 11400000, guid: ac9a2b9b0db666a48a0e2a86eb24b265, type: 2}
+  Name: "\u041A\u0440\u0443\u043F\u0430"
+  Icon: {fileID: 21300000, guid: 305c9ebbd70ab544c901d980a0e58af8, type: 3}
+  connections: []
